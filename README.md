@@ -1,6 +1,6 @@
 # GardenFi task by Team Potato 🥔 
 
-Screenshot of Final Project
+Screenshot of Final Project <br />
 ![WhatsApp Image 2024-07-25 at 21 53 06_be6d5597](https://github.com/user-attachments/assets/104f556c-6aba-452c-ab87-2815a6eafbfc)
 ![WhatsApp Image 2024-07-25 at 21 53 06_279b901c](https://github.com/user-attachments/assets/d37ae014-20e6-4a29-8caf-4aff078aacec)
 
